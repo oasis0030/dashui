@@ -1,0 +1,12 @@
+.wby-table-footer {
+    display: flex;
+}
+
+.wby-table-footer-left {
+    padding-left: 8px;
+}
+
+.wby-table-footer-right {
+    flex: 1;
+    text-align: right;
+}

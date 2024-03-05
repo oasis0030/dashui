@@ -1,0 +1,19 @@
+.wby-upload-files-container .type-picture-card .upload-text {
+  color: #666;
+  margin-top: 8px;
+}
+.wby-upload-files-container .type-picture-card .upload-icon {
+  font-size: 32px;
+  color: #999;
+}
+.wby-upload-files-container .type-picture-card.disabled {
+  cursor: not-allowed;
+}
+.wby-upload-files-container .type-text .type-picture .upload-text {
+  color: #666;
+  margin-top: 8px;
+}
+.wby-upload-files-container .type-text .type-picture .upload-icon {
+  font-size: 12px;
+  color: #999;
+}
